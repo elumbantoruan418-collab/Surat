@@ -5,12 +5,5 @@
     "role": "Admin",
     "daysLeft": 30,
     "activeSenders": 5
-  },
-  {
-    "username": "bebe",
-    "key": "091",
-    "role": "Premium",
-    "daysLeft": 2,
-    "activeSenders": 0
   }
 ]
