@@ -5,5 +5,12 @@
     "role": "Admin",
     "daysLeft": 30,
     "activeSenders": 5
+  },
+  {
+    "username": "gai",
+    "key": "wushzg",
+    "role": "Premium",
+    "daysLeft": 1,
+    "activeSenders": 0
   }
 ]
