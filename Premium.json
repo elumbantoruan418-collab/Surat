@@ -1,9 +1,14 @@
 [
   {
-    "username": "winz",
-    "key": "123456",
-    "role": "Admin",
-    "daysLeft": 30,
-    "activeSenders": 5
+    "username": "123456",
+    "password": "winz",
+    "role": "Premium",
+    "expired": "2026-01-20"
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "role": "User",
+    "expired": "2026-01-25"
   }
 ]
