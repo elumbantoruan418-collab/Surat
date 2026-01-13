@@ -4,11 +4,5 @@
     "password": "winz",
     "role": "Premium",
     "expired": "2026-01-20"
-  },
-  {
-    "username": "winz",
-    "password": "123456",
-    "role": "Premium",
-    "expired": "2026-02-01"
   }
 ]
