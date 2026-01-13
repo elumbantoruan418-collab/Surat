@@ -5,10 +5,5 @@
     "role": "Premium",
     "expired": "2026-01-20"
   },
-  {
-    "username": "user2",
-    "password": "pass2",
-    "role": "User",
-    "expired": "2026-01-25"
-  }
+  ...
 ]
